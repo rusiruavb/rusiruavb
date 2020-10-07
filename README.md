@@ -2,10 +2,11 @@
 
 ## I'm a Undergraduage student, Problem Solver, Programmer, Lover
 
-- 🌱 I’m currently learning everything 🤣
+- 📚 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to projects
 - ⚡ Fun fact: I love to play guitar
+- 💼 Looking for an internship
 
 ### Connect with me:
 

@@ -1,6 +1,6 @@
 ### Hi there, I'm Rusiru - aka [RAVB][youtube] 👋
 
-## I'm a Undergraduage student, Problem Solver, Programmer, Lover
+## I'm a Undergraduage student, Problem Solver, Programmer, Content Creator
 
 - 📚 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators

@@ -4,9 +4,9 @@
 
 - 📚 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to projects
+- 🥅 2021 Goals: Contribute more to projects
 - ⚡ Fun fact: I love to play guitar
-- 💼 Looking for an internship
+- 💼 Currently working as trainee Software Engineer
 
 ### Connect with me:
 

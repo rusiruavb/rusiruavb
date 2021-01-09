@@ -1,4 +1,4 @@
-### Hi there, I'm Rusiru - aka [RAVB][youtube] 👋
+### Hi there, I'm Rusiru - aka [RAVB][website] 👋
 
 ## I'm a Undergraduage student, Problem Solver, Programmer, Content Creator
 
@@ -37,6 +37,7 @@
 <br />
 <br />
 
+[website]: https://rusiruabhisheak.com
 [twitter]: https://twitter.com/AvbRusiru
 [youtube]: https://www.youtube.com/rusiruabhisheak
 [instagram]: https://www.instagram.com/ravb.abhisheak/

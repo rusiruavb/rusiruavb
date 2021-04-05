@@ -2,8 +2,7 @@
 
 ## I'm a Undergraduage student, Problem Solver, Programmer, Content Creator
 
-- 🥶 @refrigerated
-- 📚 I’m currently learning C# and ASP.Net
+- 📚 I’m currently learning Spring Boot framework
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to projects
 - ⚡ Fun fact: I love to play guitar

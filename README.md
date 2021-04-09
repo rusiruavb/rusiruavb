@@ -1,4 +1,4 @@
-### Hi there, I'm Rusiru - aka [RAVB][website] 👋
+### Hi there, I'm Rusiru Abhisheak - aka [RAVB][website] 👋
 
 ## I'm a Undergraduage student, Problem Solver, Programmer, Content Creator
 

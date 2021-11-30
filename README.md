@@ -1,4 +1,4 @@
-### Hi there, I'm Rusiru Abhisheak - aka [RAVB][website] 👋
+# Hi there, I'm Rusiru Abhisheak - aka [RAVB][website] <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 ## I'm a Undergraduage student, Problem Solver, Programmer, Content Creator
 

@@ -1,13 +1,18 @@
 # Hi there 👋🏼, I'm Rusiru Abhisheak - aka [RAVB][website]
 
-## I'm a Undergraduage student, Problem Solver, Programmer, Content Creator
-
-- 💼 I’m currently working as an Associate Software Engineer at Redot Global
-- 🧑🏻‍💻 I'm currently learning Go language
-- 📽 I’m looking to collaborate with other content creators
-- 🎯 2022 Goals: ["Complete the research project", "Contribute more to projects"]
-- ⚡ Fun fact: I love to play guitar
-- 😄 Pronouns: He/Him
+## About Me
+```
+work 💼:
+  position: Associate Software Engineer
+  company: Redot Global
+  
+currentlyLearning 📚: ["Golang", "k8s", "Next JS", "Play 🎸"]
+yearGoals 🎯:
+  goalOne: "Complete the research project"
+  goalTwo: "Contribute more to projects"
+funFact ✨: "I love to play 🎻"
+proNouns: He/ Him
+```
 
 ### Connect with me:
 

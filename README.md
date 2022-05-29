@@ -1,11 +1,11 @@
-# Hi there, I'm Rusiru Abhisheak - aka [RAVB][website] <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+# Hi there 👋🏼, I'm Rusiru Abhisheak - aka [RAVB][website]
 
 ## I'm a Undergraduage student, Problem Solver, Programmer, Content Creator
 
-- 💼 I’m currently working as a Software Engineer at Redot Global Technologies
-- 🌱 I'm currently learning Spring Boot framework
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to projects
+- 💼 I’m currently working as an Associate Software Engineer at Redot Global
+- 🧑🏻‍💻 I'm currently learning Go language
+- 📽 I’m looking to collaborate with other content creators
+- 🎯 2022 Goals: ["Complete the research project", "Contribute more to projects"]
 - ⚡ Fun fact: I love to play guitar
 - 😄 Pronouns: He/Him
 

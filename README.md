@@ -1,5 +1,5 @@
 ## Hi there 👋🏼, I'm Rusiru Abhisheak - aka [RAVB][website]
-💻 I’m currently working as an Associate Software Engineer @ Redot Global Sri Lanka<br>
+💻 I’m currently working as an Associate Software Engineer @ Arimac Lanka<br>
 🎓 I’m a final year Software Engineering undergraduate in SLIIT University<br>
 📈 I experienced in Problem Solving, Programming and Video Editing<br>
 📫 Reach me at <a href="mailto:rusiruavbwork@gmail.com">rusiruavbwork@gmail.com</a><br>

@@ -3,7 +3,7 @@
 🎓 I’m a final year Software Engineering undergraduate in SLIIT University<br>
 📈 I experienced in Problem Solving, Programming and Video Editing<br>
 📫 Reach me at <a href="mailto:rusiruavbwork@gmail.com">rusiruavbwork@gmail.com</a><br>
-🌏 Official Site: <a href="https://rusiruabhisheak.com">rusiruabhisheak.com</a><br>
+🌏 Official Site: <a href="https://rusiruabhisheak.online">rusiruabhisheak.online</a><br>
 🔍 Find me on:
  <ul>
    <li>LinkedIn: <a href="https://www.linkedin.com/in/rusiru-abhisheak-8a4b19196" target="_blank">linkedin.com/rusiru-abhisheak</a></li>

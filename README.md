@@ -1,5 +1,5 @@
 ## Hi there 👋🏼, I'm Rusiru Abhisheak - aka [RAVB][website]
-💻 I’m currently working as a Senior Software Engineer @ Arimac Lanka<br>
+💻 I’m currently working as a Senior Software Engineer @ Wire Apps<br>
 🎓 I have graduated from SLIIT under B.Sc (Hons) degree with Software Engineering specialization<br>
 📈 I experienced in Problem Solving, Programming and Video Editing<br>
 📫 Reach me at <a href="mailto:rusiruavbwork@gmail.com">rusiruavbwork@gmail.com</a><br>

@@ -17,4 +17,4 @@
   <li>🍃 Learn to play guitar</li>
 </ul>
 
-[website]: https://rusiruabhisheak.com
+[website]: https://rusiruavb.com

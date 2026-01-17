@@ -4,7 +4,7 @@
 🎓 I am currently reading M.Sc program under Advanced Software Engineering at University of Westminster<br>
 📈 I experienced in Problem Solving, Programming and Video Editing<br>
 📫 Reach me at <a href="mailto:rusiruavbwork@gmail.com">rusiruavbwork@gmail.com</a><br>
-🌏 Official Site: <a href="https://rusiruabhisheak.online" target="_blank">rusiruabhisheak.online</a><br>
+🌏 Official Site: <a href="https://www.rusiruavb.com" target="_blank">rusiruavb.com</a><br>
 🔍 Find me on:
  <ul>
    <li>LinkedIn: <a href="https://www.linkedin.com/in/rusiru-abhisheak-8a4b19196" target="_blank">linkedin.com/rusiru-abhisheak</a></li>
